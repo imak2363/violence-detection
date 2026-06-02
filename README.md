@@ -2,13 +2,6 @@
 # 🎥 Lightweight Temporal Violence Detection Using YOLOv7-Tiny and Bi-GRU
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Accuracy-XX.XX%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Size-Lightweight-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real--Time-Capable-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Published-ScienceDirect-red?style=for-the-badge" />
-</p>
-
-<p align="center">
   <a href="https://www.sciencedirect.com/science/article/pii/S2772941926000578">
     📄 Read the Paper (ScienceDirect)
   </a>
