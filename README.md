@@ -16,7 +16,7 @@
 
 > **Official implementation** of the paper:  
 > **"Lightweight Temporal Violence Detection Using YOLOv7-Tiny and Bi-GRU for Resource-Constrained Environments"**  
-> *Published in Smart Cities and Society — Elsevier (2026)*
+> *Published in Systems and Soft Computing — Elsevier (2026)*
 
 ---
 
